@@ -13,7 +13,7 @@ footer_text:
   Página creada con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> y <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Alojada con <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Fotos por <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: neurociencias-computacional, analisis-datos, estadistica-medica, jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -78,19 +78,19 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: santi-rios # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
-instagram_id: # your instagram id
+instagram_id: 31255200 # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: Santiago G Rios # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6237-9616 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -109,11 +109,11 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: orcaasesina.com # work page URL
 x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # your zotero username
+youtube_id: UCzG5caBNA7hffCwSBKm-b6g # your youtube channel id (youtube.com/@<youtube_id>)
+zotero_username: map_kinase # your zotero username
 
 contact_note: 
-  Contáctamente!.
+  Disponible para desarrollo de aplicaciones interactivas, análisis de datos, estadística médica y más!.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -318,8 +318,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Rios]
-  first_name: [Santiago, G.]
+  last_name: [Garcia-Rios]
+  first_name: [Santiago]
 
   style: apa
   locale: es
