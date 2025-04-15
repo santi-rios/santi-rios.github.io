@@ -1,18 +1,18 @@
 ---
 layout: about
-title: about
+title: Sobre mi
 permalink: /
 subtitle: <a href="https://es.wikipedia.org/wiki/Manifiesto_por_la_Guerrilla_del_Acceso_Abierto">Open Access Manifiesto</a>.
 
 profile:
   align: right
-  image: wave-mechanics.gif
+  image: profile.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>55 81 07 99 11 WA</p>
+  # more_info: >
+  #   <p>55 81 07 99 11 WA</p>
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
