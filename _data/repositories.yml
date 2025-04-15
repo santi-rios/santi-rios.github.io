@@ -1,17 +1,11 @@
 github_users:
   - santi-rios
 
-repo_description_lines_max: 4
+repo_description_lines_max: 6
 
 github_repos:
   - santi-rios/Chemical-Space
-  - github.com/santi-rios
   - santi-rios/maestria_app_water_maze
-  - santi-rios.github.io/r-shinylive-demo/
-  # - santi-rios/santi-rios.github.io
-  # - santi-rios/r-shinylive-histograma 
-  - santi-rios/quarto-iframes 
-  - santi-rios/neurogenesis_seminario_plasticidad 
-  # - santi-rios/wm_app 
-  # - santi-rios/modelado_estadistico_r 
+  - santi-rios/UNAM-Tesis-TodoEnUno
+  - santi-rios/r-shinylive-demo
 

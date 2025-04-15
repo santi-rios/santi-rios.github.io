@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: servicios
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Servicios de consultoría, desarrollo de software y ciencia de datos.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Estadística, Desarrollo de software, Ciencia de datos]
 horizontal: false
 ---
 
