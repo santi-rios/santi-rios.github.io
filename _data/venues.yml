@@ -1,9 +1,120 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# YAML CV for Santiago Garcia Rios
 
-"PhysRev":
-  url: https://journals.aps.org/
+basics:
+  name: Santiago Garcia Rios
+  label: Behavior Analyst | Neurobiologist
+  email: santiagoboo99@gmail.com
+  url: https://santi-rios.github.io/
+  summary: Pursuing a Master's degree in Neurobiology and Behavior at the National Autonomous University of Mexico (UNAM)
+  location:
+    city: Mexico City
+    countryCode: MX
+  profiles:
+    - network: GitHub
+      username: santi-rios
+      url: github.com/santi-rios
 
-"Vision":
-  color: "#009f36"
+work:
+  - name: orcaasesina.com
+    position: Statistics teacher
+    startDate: 2022
+    summary: Teaching statistics using R on my e-learning platform developed with Moodle
+
+education:
+  - institution: National Autonomous University of Mexico
+    area: Neurobiology and Behavior
+    studyType: Master of Science
+    startDate: 2022
+    endDate: 2024
+    location: UNAM, Mexico City
+    courses:
+      - Characterization of fluoxetine effects on behavior and spatial learning in a mouse model of mild stress
+      - Developed and implemented new methods to assess depressive-like behavior and cognition using R via WebAssembly in serverless computing
+  - institution: National Autonomous University of Mexico
+    area: Biology
+    studyType: Bachelor of Science
+    startDate: 2019
+    endDate: 2022
+    location: UNAM, Mexico City
+    courses:
+      - Effects of transcranial magnetic stimulation on the expression of cannabinoid receptors in a rat model of brain injury
+      - Implemented laboratory techniques in immunology, genetics, and behavior
+
+skills:
+  - name: Programming Languages
+    keywords: [R, Bash, Python]
+  - name: Tools
+    keywords: [Docker, LaTeX]
+
+languages:
+  - language: English
+    fluency: C2
+  - language: Spanish
+    fluency: Native
+
+projects:
+  - name: Development of Data Science Techniques
+    startDate: 2022
+    endDate: Present
+    highlights:
+      - Video tracking of behavior and development of apps for analysis using serverless R
+      - Implementation of statistical tools to analyze cognitive deficits in mice using R
+  - name: Applying the Euler Characteristic Transform to protein structures
+    organization: Michigan State University
+    startDate: 2022
+    endDate: Present
+    highlights:
+      - Understanding and Applying the ECT to Measure the Shape of protein structures
+      - Publication in progress
+  - name: Research Program Participant
+    organization: Faculty of Medicine, UNAM
+    startDate: 2017
+    endDate: 2020
+    location: Mexico City
+    highlights:
+      - Studied brain injury and behavioral effects
+      - Presented results at the Neuroscience 2019 international meeting in Chicago, Illinois
+  - name: Short Research Stay
+    organization: Neurobiology Institute, UNAM
+    startDate: 2015
+    highlights:
+      - Participated in the Younglings to Research program
+      - Studied cognitive behavior analysis using optogenetic techniques
+  - name: Short Research Stay
+    organization: Cell Physiology Institute, UNAM
+    startDate: 2014
+    location: Mexico City
+    highlights:
+      - Participated in the Younglings to Research program
+      - Studied techniques and methods to analyze G-coupled proteins
+
+publications:
+  - title: Characterization of fluoxetine effects on behavior and spatial learning in a mouse model of mild stress
+    type: thesis
+    year: 2024
+    note: Master's Thesis, National Autonomous University of Mexico
+    url: https://santi-rios.github.io/
+  - title: Applying the Euler Characteristic Transform to protein structures
+    status: inProgress
+    year: 2024
+    note: Research collaboration with Michigan State University
+    url: https://santi-rios.github.io/
+  - title: Effects of transcranial magnetic stimulation on the expression of cannabinoid receptors in a rat model of brain injury
+    type: thesis
+    year: 2022
+    note: Bachelor's Thesis, National Autonomous University of Mexico
+    url: https://santi-rios.github.io/
+  - title: Brain injury and behavioral effects study
+    type: conference
+    year: 2019
+    note: Presented at Neuroscience 2019 international meeting, Chicago
+    url: https://santi-rios.github.io/
+
+journals:
+  AJP:
+    url: https://aapt.scitation.org/journal/ajp
+    color: "#00369f"
+  PhysRev:
+    url: https://journals.aps.org/
+  Vision:
+    color: "#009f36"
