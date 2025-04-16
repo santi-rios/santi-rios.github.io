@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Santiago Garcia Rios",
-    "label": "Behavior Analyst | Neurobiologist",
-    "email": "santiagoboo99@gmail.com",
+    "label": "Computational Neurobiologist | Science Communicator | Data Educator",
+    "email": "santiago_gr@ciencias.unam.mx",
+    "phone": "(52) 55 81 07 99 11",
     "url": "https://santi-rios.github.io/",
-    "summary": "Pursuing a Master's degree in Neurobiology and Behavior at the National Autonomous University of Mexico (UNAM)",
+    "summary": "Concluding a Master's degree in Neurobiology and Behavior at the National Autonomous University of Mexico (UNAM). Currently developing and managing software focused on data handling, presentation and teaching statistical and computer concepts for medical sciences.",
     "location": {
       "city": "Mexico City",
       "countryCode": "MX"
@@ -17,40 +18,174 @@
       }
     ]
   },
-  "education": [
+  "work": [
     {
-      "institution": "National Autonomous University of Mexico",
-      "area": "Neurobiology and Behavior",
-      "studyType": "Master of Science",
-      "startDate": "2022",
-      "endDate": "2025",
-      "location": "UNAM, Mexico City",
-      "courses": [
-        "Characterization of fluoxetine effects on behavior and spatial learning in a mouse model of mild stress",
-        "Developed and implemented new methods to assess depressive-like behavior and cognition using R via WebAssembly in serverless computing"
+      "name": "Writer for \"Revista Nexos\"",
+      "location": "Mexico",
+      "url": "https://ciencia.nexos.com.mx/",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "summary": "Science communication articles with focus on discussing the scientific method, philosophy, ethics, mental health and computational neurobiology.",
+      "highlights": []
+    },
+    {
+      "name": "Builder of Learning Systems and teaching.",
+      "position": "Site administrator and Teacher",
+      "url": "https://orcaasesina.com",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "summary": "Created and manage an open-access LMS (orcaasesina.com) for Spanish-speaking students in health and biological sciences. Taught over 100 students.",
+      "highlights": [
+        "Introduction to R for the Health Sciences. Uses WebAssembly to deploy the R console and dependencies within the course.",
+        "Introduction to Biological Sciences. This course includes leassons that cover: physiology, mollecular and cell biology, evolution, genetics and ecology."
       ]
     },
     {
-      "institution": "National Autonomous University of Mexico",
+      "name": "Researcher",
+      "location": "UNAM",
+      "position": "Undergraduate-Masters",
+      "startDate": "2015-02-09",
+      "endDate": "",
+      "summary": "Computational neurobiologist with extensive research experience in memory and learning.",
+      "highlights": [
+        " I have worked in the two most scientifically prestigious laboratories in Mexico, according to Stanford University's World’s Top 2% Scientists ranking: those of Dr. García Sainz and Dr. Rattoni at the Institute of Cellular Physiology, UNAM.",
+        "Collaborated with Dr. Dan Chitwood in the Department of Computer Science, Mathematics, and Engineering at the University of Michigan (publication in progress) and with Dr. Guillermo Restrepo (Max Planck Institute).",
+        "My research includes the evaluation of the therapeutic effects of cannabinoid receptors in traumatic brain injury, in collaboration with Dr. Luz Navarro and Leticia Verdugo.",
+        "Speaker at international scientific conferences (Neuroscience 2019)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Autonomous University of Mexico (2023-2025)",
+      "area": "Neurobiology and Behavior",
+      "studyType": "Master of Science",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+        "Characterization of fluoxetine effects on behavior and spatial learning in a mouse model of mild stress",
+        "Developed and implemented new methods to assess depressive-like behavior and cognition using R via WebAssembly in serverless computing"
+      ],
+      "location": "UNAM, Mexico City"
+    },
+    {
+      "institution": "National Autonomous University of Mexico (2018-2022)",
       "area": "Biology",
       "studyType": "Bachelor of Science",
-      "startDate": "2019",
-      "endDate": "2022",
-      "location": "UNAM, Mexico City",
+      "startDate": "",
+      "endDate": "",
       "courses": [
         "Effects of transcranial magnetic stimulation on the expression of cannabinoid receptors in a rat model of brain injury",
         "Implemented laboratory techniques in immunology, genetics, and behavior"
-      ]
+      ],
+      "location": "UNAM, Mexico City"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Shiny application for the exploration of the papper *China's rise in the chemical space and the decline of US influence* (2025)",
+      "releaseDate": "",
+      "url": "https://github.com/santi-rios/Chemical-Space",
+      "summary": "This application provides an immersive exploration of global chemical research trends from the paper *\"China's rise in the chemical space and the decline of US influence\"*. Built for technical depth, interactive visualizations,  user experience and optimized handling of large datasets."
+    },
+    {
+      "name": "Quarto-Latex Docker template for easy doctoral thesis writing. (2025)",
+      "releaseDate": "",
+      "url": "https://github.com/santi-rios/UNAM-Tesis-TodoEnUno",
+      "summary": ""
+    },
+    {
+      "name": "IA, cognición humana y juegos de estrategia (2025)",
+      "publisher": "Nexos",
+      "releaseDate": "",
+      "url": "https://ciencia.nexos.com.mx/ia-cognicion-humana-y-juegos-de-estrategia/",
+      "summary": "Science communication article explaining the similarities and differences between artificial intelligence and human cognitive processes. "
+    },
+    {
+      "name": "Quarto Serverless Data exploration app hosted in Github pages. (2024)",
+      "url": "https://github.com/santi-rios/r-shinylive-demo",
+      "summary": ""
+    },
+    {
+      "name": "Serverless shiny-r app for behaviour analysis in the morris water maze. (2023)",
+      "releaseDate": "",
+      "url": "https://santi-rios.github.io/maestria_app_water_maze/",
+      "annotation": ""
+    },
+    {
+      "name": "Applying the Euler Characteristic Transform to protein structures",
+      "releaseDate": "",
+      "summary": "Research collaboration with Dr. Dan Chitwood (Michigan State University). Publication currently in progress."
+    },
+    {
+      "name": "Un repaso por la esquizofrenia y sus tratamientos (2022)",
+      "publisher": "Nexos",
+      "releaseDate": "",
+      "url": "https://discapacidades.nexos.com.mx/un-repaso-por-la-esquizofrenia-y-sus-tratamientos/",
+      "summary": "Science communication article reviewing the current treatments for schizophrenia. "
+    },
+    {
+      "name": "Bueno para la salud, científicamente comprobado (2021)",
+      "publisher": "2021",
+      "releaseDate": "",
+      "url": "https://ciencia.nexos.com.mx/bueno-para-la-salud-cientificamente-comprobado/",
+      "summary": "Science communication article expanding on the scientific method and its misconceptions. "
+    },
+    {
+      "name": "Antidepresivos: serendipia y efectos inesperados (2021)",
+      "publisher": "Nexos",
+      "releaseDate": "",
+      "url": "https://discapacidades.nexos.com.mx/antidepresivos-serendipia-y-efectos-inesperados/",
+      "summary": "Science communication article reviewing the decades on antidepressants research."
+    },
+    {
+      "name": "Alzheimer: últimas noticias (2021)",
+      "publisher": "Nexos",
+      "releaseDate": "",
+      "url": "https://discapacidades.nexos.com.mx/alzheimer-ultimas-noticias/",
+      "summary": "Science communication article updating the Alzheimer disease treatments and state in Mexico."
     }
   ],
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["R", "Bash", "Python", "Shiny", "JavaScript", "HTML", "CSS", "Markdown", "SQL", "webAssembly"]
+      "keywords": [
+        "R",
+        "Bash",
+        "Python",
+        "Shiny",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Markdown",
+        "SQL",
+        "webAssembly"
+      ]
     },
     {
       "name": "Tools",
-      "keywords": ["Docker", "LaTeX", "Git", "GitHub", "RStudio", "VSCode", "Jupyter Notebook"]
+      "keywords": [
+        "Docker",
+        "LaTeX",
+        "Git",
+        "GitHub",
+        "RStudio",
+        "VSCode",
+        "Jupyter Notebook",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "Molecular and Cellular Biology Techniques",
+      "level": "",
+      "keywords": [
+        "PCR",
+        "Western Blot",
+        "ELISA",
+        "Immunofluorescence",
+        "Cell Culture",
+        "Microscopy"
+      ]
     }
   ],
   "languages": [
@@ -63,70 +198,7 @@
       "fluency": "Native"
     }
   ],
-  "publications": [
-    {
-      "name": "Shiny application for the exploration of the papper *China's rise in the chemical space and the decline of US influence*",
-      "releaseDate": 2025,
-      "summary": "This application provides an immersive exploration of global chemical research trends from the paper *\"China's rise in the chemical space and the decline of US influence\"*. Built for technical depth and user experience.",
-      "url": "https://github.com/santi-rios/Chemical-Space"
-    },
-    {
-      "name": "Plantilla de Quarto-LAtex \"todo en uno\" para la escritura de tesis de licenciatura, maestría o doctorado.",
-      "releaseDate": 2025,
-      "summary": "La plantilla utiliza docker para instalar y configurar todos los paquetes necesarios para compilar la tesis SIN necesidad de instalar nada en tu computadora (más allá de docker).",
-      "url": "https://github.com/santi-rios/UNAM-Tesis-TodoEnUno"
-    },
-    {
-      "name": "IA, cognición humana y juegos de estrategia",
-      "releaseDate": 2025,
-      "url": "https://ciencia.nexos.com.mx/ia-cognicion-humana-y-juegos-de-estrategia/",
-      "summary": "En 1912, el inventor español Leonardo Torres Quevedo construyó una máquina autómata capaz de jugar ajedrez y vencer a sus contrincantes de carne y hueso, conocida como El ajedrecista. Aunque sólo podía jugar con tres piezas en el tablero, esta innovación anticipaba la posibilidad de que una máquina pudiera competir contra humanos en juegos de estrategia."
-    },
-    {
-      "name": "Cálculo de Entropia en el Laberinto Acuático de Morris",
-      "releaseDate": 2024,
-      "url": "https://santi-rios.github.io/maestria_app_water_maze/",
-      "annotation": "Aplicación desarrollada para el análisis de conductas en el Laberinto Acuático de Morris (Morris Water Maze) en R y Shiny y con tecnología serverless para el calculo de entropía de Shannon, trayectorías de búsqueda y regresión bayesiana de efectos mixtos."
-    },
-    {
-      "name": "R Shiny Application in Quarto with Shinylive (Serverless)",
-      "summary": "Quarto document with embedded static Shiny apps.",
-      "url": "https://github.com/santi-rios/r-shinylive-demo"
-    },
-    {
-      "name": "Bueno para la salud, científicamente comprobado",
-      "releaseDate": 2021,
-      "url": "https://ciencia.nexos.com.mx/bueno-para-la-salud-cientificamente-comprobado/"
-    },
-    {
-      "name": "Applying the Euler Characteristic Transform to protein structures",
-      "releaseDate": 2024,
-      "note": "Research collaboration with Michigan State University",
-      "url": "https://santi-rios.github.io/"
-    },
-    {
-      "name": "Degenerados, ¿los enemigos de la sociedad?",
-      "releaseDate": 2021,
-      "url": "https://ciencia.nexos.com.mx/degenerados-los-enemigos-de-la-sociedad/",
-      "summary": "Explora cómo la 'teoría de la degeneración' influyó en la medicina, psiquiatría y biología evolutiva."
-    },
-    {
-      "name": "Alzheimer: últimas noticias",
-      "releaseDate": 2021,
-      "url": "https://discapacidades.nexos.com.mx/alzheimer-ultimas-noticias/",
-      "summary": "Reflexión sobre la conciencia del Yo y el impacto de Alzheimer en la identidad personal."
-    },
-    {
-      "name": "Antidepresivos: serendipia y efectos inesperados",
-      "releaseDate": 2021,
-      "url": "https://discapacidades.nexos.com.mx/antidepresivos-serendipia-y-efectos-inesperados/",
-      "summary": "Historia de los primeros antidepresivos derivados de compuestos bélicos reutilizados."
-    },
-    {
-      "name": "Un repaso por la esquizofrenia y sus tratamientos",
-      "releaseDate": 2022,
-      "url": "https://discapacidades.nexos.com.mx/un-repaso-por-la-esquizofrenia-y-sus-tratamientos/",
-      "summary": "Panorama histórico y actual de los tratamientos para la esquizofrenia en México."
-    }
-  ]
+  "meta": {
+    "lastModified": "2025-04-16T12:13:06-06:00Z"
+  }
 }
